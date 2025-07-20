@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Final PhD work\\Nakama_login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\registermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\registermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\resetpassworduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resetpassworduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|d:\\final phd work\\nakama_login\\assets\\script\\forgotpassworduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\forgotpassworduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\registrationuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\registrationuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\nakamasessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\nakamasessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\welcomeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\welcomeuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\aboutuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\aboutuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|D:\\Final PhD work\\Nakama_login\\assets\\script\\loginuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1390AE36-A201-53DD-E5B5-1BB4E53DF413}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\loginuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mailservice.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\mailservice.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\mailservice.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\mailservice.cs",
+              "RelativeToolTip": "Assets\\Script\\mailservice.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:27:27.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutUIManager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\AboutUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AboutUIManager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\AboutUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AboutUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:45:39.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPasswordUIManager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\ResetPasswordUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResetPasswordUIManager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\ResetPasswordUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ResetPasswordUIManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:41:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WelcomeUImanager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\WelcomeUImanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WelcomeUImanager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\WelcomeUImanager.cs",
+              "RelativeToolTip": "Assets\\Script\\WelcomeUImanager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:15:44.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NakamaSessionManager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\NakamaSessionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NakamaSessionManager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\NakamaSessionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\NakamaSessionManager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:00:38.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPasswordUIManager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\ForgotPasswordUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ForgotPasswordUIManager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\ForgotPasswordUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ForgotPasswordUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:18:40.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationUIManager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\RegistrationUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RegistrationUIManager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\RegistrationUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\RegistrationUIManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:52:11.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUIManager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\LoginUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LoginUIManager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\LoginUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LoginUIManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:53:26.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterManager.cs",
+              "DocumentMoniker": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\RegisterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RegisterManager.cs",
+              "ToolTip": "D:\\Final PhD work\\Nakama_login\\Assets\\Script\\RegisterManager.cs",
+              "RelativeToolTip": "Assets\\Script\\RegisterManager.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAkwI4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:43:18.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
